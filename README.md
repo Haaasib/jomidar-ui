@@ -14,4 +14,4 @@
 * QBCore Community - Thank you so much for everyone who's been testing this!
 
 # If You want to report bugs and want support Join Our Discord Server 
-https://discord.gg/ahcbQw2KAQ
+[https://discord.gg/ahcbQw2KAQ](https://discord.com/invite/T7du2nJfyN)
