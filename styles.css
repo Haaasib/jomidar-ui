@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,500&display=swap";
+@import "https://assets.nopixel.net/web/fonts/gilroy/stylesheet.css";
+@import "https://assets.nopixel.net/web/fonts/nekst/stylesheet.css";
 
 body {
   margin: 0;
@@ -22,9 +25,9 @@ body {
 }
 
 .title {
-  font-family: 'Work Sans', sans-serif !important;
+  font-family: 'nekst'!important;
   color: rgb(1, 255, 158);
-  font-size: 1.8vh;
+  font-size: 2.2vh;
   font-weight: bold;
   margin-bottom: 1vh;
   position: relative;
@@ -63,10 +66,11 @@ body {
 
 
 .content {
-  font-family: 'Roboto', sans-serif !important;
+  font-family: 'gilroy'!important;
   font-weight: 400;
   line-height: 1.5;
   margin-top: 5%;
+  font-weight: bold;
   margin-left: 20%;
   border-radius: 0.5vh;
   border: 1px solid rgba(255, 251, 251, 0.486);
