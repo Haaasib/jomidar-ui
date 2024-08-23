@@ -64,21 +64,17 @@ body {
   margin-top: -0.9%;
 }
 
-
 .content {
-  font-family: 'gilroy'!important;
-  font-weight: 400;
+  font-family: 'gilroy' !important;
+  font-weight: bold; /* Combined bold setting */
   line-height: 1.5;
   margin-top: 5%;
-  font-weight: bold;
   margin-left: 20%;
   border-radius: 0.5vh;
-  border: 1px solid rgba(255, 251, 251, 0.486);
-  background-color: rgba(109, 109, 109, 0.253);
+  border: 1px solid rgba(255, 251, 251, 0.7); /* Adjusted border opacity */
+  background-color: rgba(109, 109, 109, 0.5); /* Adjusted background opacity */
   max-width: 47%;
-  /* Maximale Breite des Containers */
   min-width: 20%;
-  /* Maximale Breite des Containers */
   font-size: 1.6vh;
   overflow-wrap: break-word;
   padding: 5%;
